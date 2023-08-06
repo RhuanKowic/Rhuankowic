@@ -1,5 +1,5 @@
 Olá, eu sou Rhuan.
-📘 Estou estudando sobre desenvolvimento Back-end.
+📘 Estou estudando sobre desenvolvimento Fullstack.
 ##
 <div align="center">
   <a href="https://github.com/RhuanKowic/">
