@@ -5,7 +5,7 @@ Olá! 👋 Sou Rhuan, recém-formado em Análise e Desenvolvimento de Sistemas, 
 Atualmente, meu foco está no desenvolvimento backend, e minha linguagem de eleição é o Java. Através do Java, busco criar aplicativos eficientes e escaláveis, contribuindo para a construção de sistemas sólidos e confiáveis.
 
 - Habilidades:
-- 
+
 <div>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
