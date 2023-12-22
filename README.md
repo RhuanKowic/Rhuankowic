@@ -2,7 +2,7 @@
 Olá! 👋 Sou Rhuan, recém-formado em Análise e Desenvolvimento de Sistemas, apaixonado por transformar linhas de código em soluções robustas. Minha jornada começou recentemente, mas estou determinado a explorar e aprimorar minhas habilidades no mundo do desenvolvimento de software.
 
 ## Stack Preferida
-Atualmente, meu foco está no desenvolvimento backend, e minha linguagem de eleição é o Java. Através do Java, busco criar aplicativos eficientes e escaláveis, contribuindo para a construção de sistemas sólidos e confiáveis.
+Atualmente, meu foco está no desenvolvimento full-stack, no back-end minha linguagem de eleição é o Java. Através do Java, busco criar aplicativos eficientes e escaláveis, contribuindo para a construção de sistemas sólidos e confiáveis. Com React.js no front-end, focamos em construir interfaces interativas e responsivas, garantindo uma experiência de usuário fluida e moderna que complementa a robustez e escalabilidade do nosso back-end Java.
 
 - Habilidades:
 
