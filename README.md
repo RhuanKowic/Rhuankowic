@@ -14,3 +14,10 @@ Atualmente, meu foco está no desenvolvimento full-stack, no back-end minha ling
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA">
   <img align="center" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="SPRING BOOT">
 </div>
+
+
+### Estudando:
+  <div>
+    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT">
+    <img align='center' src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='ANGULAR'>
+  </div>
